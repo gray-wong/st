@@ -10,7 +10,7 @@ features = st.container()
 modelTraining = st.container()
 
 #to make a requirements.txt file for deployment, install pipreqs
-#then do pipreqs PATHTOPROJECT. so piprequs ./
+#then do pipreqs PATHTOPROJECT. so pipreqs ./
 
 st.markdown(
     """
